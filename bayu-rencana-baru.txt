@@ -2,5 +2,7 @@ Rencana baru bayu
 -banyak
 *aku
 *suka
--sekali
+ ^nama
+ ^nya
 -bermain bersama kamu
+  *ke curlay
