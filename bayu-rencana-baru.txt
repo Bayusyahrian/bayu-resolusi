@@ -2,5 +2,8 @@ Rencana baru bayu
 -banyak
 *aku
 *suka
+ ^dia 
 -sekali
 -bermain bersama kamu
+ *ke curlay
+ -Python
